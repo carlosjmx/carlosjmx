@@ -1,6 +1,6 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosjmx/)](link_do_seu_perfil_no_linkedin)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlinhosjmx@gmail.com)](mailto:carlinhosjmx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosjmx/)](link_do_seu_perfil_no_linkedin)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlinhosjmx@gmail.com)](mailto:carlinhosjmx@gmail.com)
 
 Apaixonado por tecnologia, seja front-end, back-end ou mobile. Desenvolvimento Web usando tecnologias como HTML5, CSS3, Javascript, banco de dados MySQL, PostgreSQL. No front tenho experimentado o framework React com NextJS. No back-end com PHP (OO), e agora com as API Rest usando Laravel e Lumen. Tenho experimentado também API REST com Spring Boot e JAVA e Imergindo no mundo mobile com React-Native.
 
